@@ -84,3 +84,16 @@ padding-right: 150px;
 padding-top: 50px;
 padding-bottom: 50px;
 }
+
+#Custom{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  border: 2px;
+  bor
+}
+#Subscribe{
+  text-align: center;
+  background-image: url(/img/backgrounds/subscribe.jpg);
+}
