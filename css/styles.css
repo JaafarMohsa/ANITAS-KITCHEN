@@ -67,3 +67,7 @@ button{
 #Drinks{
   text-align: right;
 }
+.slide p {
+  text-align: center;
+  color:  #F15A29;
+}
