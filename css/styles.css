@@ -28,6 +28,7 @@ font-style: italic;
   padding-right:0px;
   width: 100%
 
+
 }
 #Breakfast{
   height: 100%;
@@ -75,8 +76,11 @@ button{
 .slide p {
   text-align: center;
   color:  #F15A29;
-
-
-#slider{
-  background-image: url(../img/backgrounds/foodsBg.jpg);
+}
+.Jaafar{
+background-image: url(../img/backgrounds/foodsBg.jpg);
+padding-left: 150px;
+padding-right: 150px;
+padding-top: 50px;
+padding-bottom: 50px;
 }
