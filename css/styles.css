@@ -4,9 +4,13 @@
 color:white;
 font-style: italic;
 }
+#FIRST{
+  padding: 0;
+  margin: 0;
+}
 .happyhour{
   background-color: white;
-  height: 100px;
+  height: 40%;
   text-align: center;
   padding-top: 50px;
   padding-bottom:50px;
@@ -16,16 +20,17 @@ font-style: italic;
 }
 .partytime{
   background-color: #F15A29;
-  height: 100px;
+  height: 60%;
   text-align: center;
   padding-top: 50px;
   padding-bottom:50px;
   font-style: italic;
   padding-right:0px;
+  width: 100%
 
 }
 #Breakfast{
-  height: 200px;
+  height: 100%;
   background-image: url(../img/foodtop/breakfast.jpg);
   text-align: center;
   padding-top: 100px;
@@ -37,7 +42,7 @@ font-style: italic;
 
 }
 #Lunch{
-  height: 200px;
+  height: 100%;
   background-image: url(../img/foodtop/lunch.jpg);
   text-align: center;
   padding-top: 100px;
@@ -48,7 +53,7 @@ font-style: italic;
 
 }
 #Dinner{
-  height: 200px;
+  height: 100%;
    background-image: url(../img/foodtop/dinner.jpg);
    text-align: center;
    padding-top: 100px;
@@ -70,4 +75,8 @@ button{
 .slide p {
   text-align: center;
   color:  #F15A29;
+
+
+#slider{
+  background-image: url(../img/backgrounds/foodsBg.jpg);
 }
