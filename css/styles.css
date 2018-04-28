@@ -12,8 +12,8 @@ font-style: italic;
   background-color: white;
   height: 50%;
   text-align: center;
-  padding-top: 50px;
-  padding-bottom:49px;
+  padding-top: 40px;
+  padding-bottom:40px;
   font-style: italic;
   padding-right: 0px;
 
@@ -22,8 +22,8 @@ font-style: italic;
   background-color: #F15A29;
   height: 50%;
   text-align: center;
-  padding-top: 48px;
-  padding-bottom:48px;
+  padding-top: 40px;
+  padding-bottom:40px;
   font-style: italic;
   padding-right:0px;
   width: 100%
@@ -39,7 +39,7 @@ font-style: italic;
   font-size:25px;
   color: white;
 font-style: italic;
-
+background-repeat: no-repeat;
 
 }
 #Lunch{
@@ -51,7 +51,7 @@ font-style: italic;
   font-size:25px;
   color: white;
 font-style: italic;
-
+background-repeat: no-repeat;
 }
 #Dinner{
   height: 100%;
@@ -62,6 +62,7 @@ font-style: italic;
    font-size:25px;
    color: white;
  font-style: italic;
+ background-repeat: no-repeat;
 
 }
 button{
@@ -91,7 +92,7 @@ padding-bottom: 50px;
   padding-top: 200px;
   padding-bottom: 200px;
   border: 2px;
-  bor
+  text-align: center;
 }
 #Subscribe{
   text-align: center;
