@@ -96,8 +96,26 @@ padding-bottom: 50px;
 }
 #Subscribe{
   text-align: center;
-  background-image: url(/img/backgrounds/subscribe.jpg);
+  background-image: url(../img/backgrounds/subscribe.jpg);
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  border: 2px;
+  background-repeat: no-repeat;
 }
 #Pngs{
   text-align: center;
+}
+#menu{
+  text-align: center;
+  background-color: #F15A29;
+  padding: 0;
+  margin:0;
+}
+#About{
+  color:#F15A29;
+}
+#happy{
+  color:#F15A29;
 }
