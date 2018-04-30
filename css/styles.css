@@ -134,3 +134,10 @@ padding-bottom: 50px;
 .btn{
   float: left;
 }
+#View {
+ border-style: solid;
+ border-color: #F15A29;
+ border-width: thin;
+ color: #F15A29;
+ background-color: rgb(255, 255, 255);
+}
